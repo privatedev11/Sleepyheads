@@ -1,0 +1,15 @@
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\bin\Debug\netstandard2.0\Sleepyheads.deps.json
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\bin\Debug\netstandard2.0\Sleepyheads.dll
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\bin\Debug\netstandard2.0\ref\Sleepyheads.dll
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\bin\Debug\netstandard2.0\Sleepyheads.pdb
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.csproj.AssemblyReference.cache
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.AssemblyInfoInputs.cache
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.AssemblyInfo.cs
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.csproj.CoreCompileInputs.cache
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.dll
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\ref\Sleepyheads.dll
+C:\Coding\Sleepyheads\Android\Sleepyheads\Sleepyheads\Sleepyheads\obj\Debug\netstandard2.0\Sleepyheads.pdb
