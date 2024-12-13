@@ -1,0 +1,12 @@
+:root {
+    --background-color: #161622;      /* Dark background */
+    --font-color: #ffffff;            /* Light font for contrast */
+    --primary-color: #8a2be2;         /* Dark purple for primary elements */
+    --secondary-color: #c373fc;       /* Darker purple for secondary accents */
+    --invert-font-color: #1a1a2e;     /* Inverted font color */
+    --error-color: #ff4d4d;           /* Error color (red) */
+    --progress-bar-background: #33354d; /* Dark background for progress bars */
+    --progress-bar-fill: #8a2be2;     /* Dark purple fill for progress bars */
+    --code-bg-color: #2a2a40;         /* Dark background for code blocks */
+    }
+  
